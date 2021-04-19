@@ -8,5 +8,10 @@ public class Demo
 		System.out.println(" Hello GitDemo ");
 
 	}
+	
+	public void sum()
+	{
+		System.out.println("  Hello Sum ");
+	}
 
 }
