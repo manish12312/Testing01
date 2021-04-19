@@ -13,5 +13,10 @@ public class Demo
 	{
 		System.out.println("  Hello Sum ");
 	}
+	public void sub()
+	{
+		System.out.println("  Hello Sub");
+	}
+
 
 }
